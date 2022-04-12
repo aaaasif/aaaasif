@@ -43,12 +43,11 @@
 
 ## 📊 My Github Stats
 
-  <br><br>
 
 <img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=aaaasif&show_icons=true&locale=en" alt="aaaasif" />
 
 <img align="right" height="200" width="334" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaaasif&show_icons=true&locale=en&layout=compact" alt="aaaasif" />
-<br>
+<br/>
 <br/>
 <br/>
 
