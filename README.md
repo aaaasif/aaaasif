@@ -47,22 +47,3 @@
 <img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=aaaasif&show_icons=true&locale=en" alt="aaaasif" />
 
 <img align="right" height="200" width="334" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaaasif&show_icons=true&locale=en&layout=compact" alt="aaaasif" />
-<br/>
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/abdullah-al-asif-7b5b641b5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Abdulla20436539"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/abdullah_al_aasif/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCtTdFwyCsPiR9Apv5tKspfQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/aaaasif?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
