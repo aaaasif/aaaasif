@@ -44,5 +44,3 @@
 ## 📊 My Github Stats
 
 
-<img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=aaaasif&show_icons=true&locale=en" alt="aaaasif" />
-
