@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **alexasif4@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
